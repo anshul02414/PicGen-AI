@@ -1,0 +1,19 @@
+# Node dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build / Dist files
+build/
+dist/
+
+# Environment variables
+.env
+client/.env
+server/.env
+
+# VSCode settings
+.vscode/
+
+# Windows system files
+AppData/
